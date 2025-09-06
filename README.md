@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/guilds/{chanchan}/draw"/>
+  <img src="https://render.gitanimals.org/guilds/752091119044368803/draw"/>
 </a>
